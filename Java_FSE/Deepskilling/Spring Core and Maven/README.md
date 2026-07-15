@@ -43,4 +43,4 @@ This module contains hands-on exercises completed as part of the **Cognizant Dig
 
 ## Author
 
-**Raghav Agrawal**
+**Kartik Jadon**
